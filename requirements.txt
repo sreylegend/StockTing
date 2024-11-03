@@ -56,4 +56,8 @@ sphinx==7.1.2
 mkdocs==1.5.2
 
 # Version Control
-gitpython==3.1.32 
+gitpython==3.1.32
+
+# Add to existing requirements.txt
+fredapi==0.5.0
+newsapi-python==0.2.7
